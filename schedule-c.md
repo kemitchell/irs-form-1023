@@ -1,4 +1,5 @@
-Schedule C. Hospitals and Medical Research Organizations
+# Schedule C. Hospitals and Medical Research Organizations
+
 Check the box if you are a hospital. See the instructions for a definition of the term “hospital,” which includes an
 organization whose principal purpose or function is providing hospital or medical care. Complete Section I below.
 Check the box if you are a medical research organization operated in conjunction with a hospital. See the instructions for

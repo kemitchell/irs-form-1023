@@ -1,4 +1,5 @@
-Schedule F. Homes for the Elderly or Handicapped and Low-Income Housing
+# Schedule F. Homes for the Elderly or Handicapped and Low-Income Housing
+
 General Information About Your Housing
 1
 Describe the type of housing you provide.

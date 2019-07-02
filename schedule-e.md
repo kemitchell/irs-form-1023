@@ -1,4 +1,5 @@
-Schedule E. Organizations Not Filing Form 1023 Within 27 Months of Formation
+# Schedule E. Organizations Not Filing Form 1023 Within 27 Months of Formation
+
 Schedule E is intended to determine whether you are eligible for tax exemption under section 501(c)(3) from the postmark date of your
 application or from your date of incorporation or formation, whichever is earlier.
 1
