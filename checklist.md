@@ -44,7 +44,7 @@
 
   - [ ] Financial information should correspond with proposed activities.
 
-- []  Schedules. Submit only those schedules that apply to you and check either "Yes" or "No" below.
+- [ ]  Schedules. Submit only those schedules that apply to you and check either "Yes" or "No" below.
 
   - Schedule A
 
