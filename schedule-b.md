@@ -8,7 +8,7 @@ If you operate a school as an activity, complete Schedule B
 
 ##### a
 
-Do you normally have a regularly scheduled curriculum, a regular faculty of qualified teachers, a regularly enrolled student body, and facilities where your educational activities are regularly carried on? If “No,” do not complete the remainder of Schedule B.
+Do you normally have a regularly scheduled curriculum, a regular faculty of qualified teachers, a regularly enrolled student body, and facilities where your educational activities are regularly carried on? If "No," do not complete the remainder of Schedule B.
 
 - [ ] Yes
 
@@ -16,7 +16,7 @@ Do you normally have a regularly scheduled curriculum, a regular faculty of qual
 
 ##### b
 
-Is the primary function of your school the presentation of formal instruction? If “Yes,” describe your school in terms of whether it is an elementary, secondary, college, technical, or other type of school. If “No,” do not complete the remainder of Schedule B.
+Is the primary function of your school the presentation of formal instruction? If "Yes," describe your school in terms of whether it is an elementary, secondary, college, technical, or other type of school. If "No," do not complete the remainder of Schedule B.
 
 - [ ] Yes
 
@@ -26,7 +26,7 @@ Is the primary function of your school the presentation of formal instruction? I
 
 ##### a
 
-Are you a public school because you are operated by a state or subdivision of a state? If “Yes,” explain how you are operated by a state or subdivision of a state. Do not complete the remainder of Schedule B.
+Are you a public school because you are operated by a state or subdivision of a state? If "Yes," explain how you are operated by a state or subdivision of a state. Do not complete the remainder of Schedule B.
 
 - [ ] Yes
 
@@ -34,7 +34,7 @@ Are you a public school because you are operated by a state or subdivision of a 
 
 ##### b
 
-Are you a public school because you are operated wholly or predominantly from government funds or property? If “Yes,” explain how you are operated wholly or predominantly from government funds or property. Submit a copy of your funding agreement regarding government funding. Do not complete the remainder of Schedule B. 
+Are you a public school because you are operated wholly or predominantly from government funds or property? If "Yes," explain how you are operated wholly or predominantly from government funds or property. Submit a copy of your funding agreement regarding government funding. Do not complete the remainder of Schedule B. 
 
 - [ ] Yes
 
@@ -54,7 +54,7 @@ Were you formed or substantially expanded at the time of public school desegrega
 
 #### 5
 
-Has a state or federal administrative agency or judicial body ever determined that you are racially discriminatory? If “Yes,” explain.
+Has a state or federal administrative agency or judicial body ever determined that you are racially discriminatory? If "Yes," explain.
 
 - [ ] Yes
 
@@ -62,7 +62,7 @@ Has a state or federal administrative agency or judicial body ever determined th
 
 #### 6
 
-Has your right to receive financial aid or assistance from a governmental agency ever been revoked or suspended? If “Yes,” explain.
+Has your right to receive financial aid or assistance from a governmental agency ever been revoked or suspended? If "Yes," explain.
 
 - [ ] Yes
 
@@ -70,15 +70,15 @@ Has your right to receive financial aid or assistance from a governmental agency
 
 #### 7
 
-Do you or will you contract with another organization to develop, build, market, or finance your facilities? If “Yes,” explain how that entity is selected, explain how the terms of any contracts or other agreements are negotiated at arm’s length, and explain how you determine that you will pay no more than fair market value for services. 
+Do you or will you contract with another organization to develop, build, market, or finance your facilities? If "Yes," explain how that entity is selected, explain how the terms of any contracts or other agreements are negotiated at arm's length, and explain how you determine that you will pay no more than fair market value for services. 
 
 **Note**: Make sure your answer is consistent with the information provided in Part VIII, line 7a.
 
 ##### 8
 
-Do you or will you manage your activities or facilities through your own employees or volunteers? If “No,” attach a statement describing the activities that will be managed by others, the names of the persons or organizations that manage or will manage your activities or facilities, and how these managers were or will be selected. Also, submit copies of any contracts, proposed contracts, or other agreements regarding the provision of management services for your activities or facilities. Explain how the terms of any contracts or other agreements were or will be negotiated, and explain how you determine you will pay no more than fair market value for services.
+Do you or will you manage your activities or facilities through your own employees or volunteers? If "No," attach a statement describing the activities that will be managed by others, the names of the persons or organizations that manage or will manage your activities or facilities, and how these managers were or will be selected. Also, submit copies of any contracts, proposed contracts, or other agreements regarding the provision of management services for your activities or facilities. Explain how the terms of any contracts or other agreements were or will be negotiated, and explain how you determine you will pay no more than fair market value for services.
 
-**Note**: Answer “Yes” if you manage or intend to manage your programs through your own employees or by using volunteers. Answer “No” if you engage or intend to engage a separate organization or independent contractor. Make sure your answer is consistent with the information provided in Part VIII, line 7b.
+**Note**: Answer "Yes" if you manage or intend to manage your programs through your own employees or by using volunteers. Answer "No" if you engage or intend to engage a separate organization or independent contractor. Make sure your answer is consistent with the information provided in Part VIII, line 7b.
 
 ### Section II.  Establishment of Racially Nondiscriminatory Policy
 
@@ -86,7 +86,7 @@ Information required by Revenue Procedure 75-50.
 
 #### 1
 
-Have you adopted a racially nondiscriminatory policy as to students in your organizing document, bylaws, or by resolution of your governing body? If “Yes,” state where the policy can be found or supply a copy of the policy. If “No,” you must adopt a nondiscriminatory policy as to students before submitting this application. See Pub. 557.
+Have you adopted a racially nondiscriminatory policy as to students in your organizing document, bylaws, or by resolution of your governing body? If "Yes," state where the policy can be found or supply a copy of the policy. If "No," you must adopt a nondiscriminatory policy as to students before submitting this application. See Pub. 557.
 
 #### 2
 
@@ -97,13 +97,13 @@ Do your brochures, application forms, advertisements, and catalogues dealing wit
 - [ ] No
 
 
-- a If “Yes,” attach a representative sample of each document.
+- a If "Yes," attach a representative sample of each document.
 
-- b If “No,” by checking the box to the right you agree that all future printed materials, including website content, will contain the required nondiscriminatory policy statement.
+- b If "No," by checking the box to the right you agree that all future printed materials, including website content, will contain the required nondiscriminatory policy statement.
 
 #### 3
 
-Have you published a notice of your nondiscriminatory policy in a newspaper of general circulation that serves all racial segments of the community? See the instructions for specific requirements. If “No,” explain.
+Have you published a notice of your nondiscriminatory policy in a newspaper of general circulation that serves all racial segments of the community? See the instructions for specific requirements. If "No," explain.
 
 - [ ] Yes
 
@@ -111,7 +111,7 @@ Have you published a notice of your nondiscriminatory policy in a newspaper of g
 
 #### 4
 
-Does or will the organization (or any department or division within it) discriminate in any way on the basis of race with respect to admissions; use of facilities or exercise of student privileges; faculty or administrative staff; or scholarship or loan programs? If “Yes,” for any of the above, explain fully.
+Does or will the organization (or any department or division within it) discriminate in any way on the basis of race with respect to admissions; use of facilities or exercise of student privileges; faculty or administrative staff; or scholarship or loan programs? If "Yes," for any of the above, explain fully.
 
 - [ ] Yes
 
@@ -150,11 +150,11 @@ Total
 individuals or organizations.
 8
 b Do any of these individuals or organizations have an objective to maintain segregated public or private
-school education? If “Yes,” explain.
+school education? If "Yes," explain.
 Yes
 No
 Will you maintain records according to the nondiscrimination provisions contained in Revenue Procedure
-75-50? If “No,” explain. See instructions.
+75-50? If "No," explain. See instructions.
 Yes
 No
 Form
